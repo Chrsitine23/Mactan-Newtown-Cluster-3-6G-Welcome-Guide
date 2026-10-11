@@ -1917,7 +1917,9 @@ img {
 .content-page .content-card strong {
     color: var(--av-ink);
 }
-
+.content-page .content-card .store-item strong {
+    color: #ffffff !important;
+}
 .content-page .note {
     background: #F3EEE3;
     border-color: #E8DDC7;
